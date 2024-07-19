@@ -1,12 +1,9 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E22AQHGLXg4YtLB7Q/feedshare-shrink_2048_1536/0/1638017704929?e=2147483647&v=beta&t=KvJWErolTe1vqdn5IQRrdYeOUINBkTAHPTUuzGMOmXA)]
+<img style="width: 100%; height: auto;" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="MasterHead">
 <h1 align="center">Hey there 👋, I'm Naol Daba</h1>
 <h3 align="center">Innovative Solutions Architect: Crafting the Future of Software Engineering</h3>
-img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/view-3d-man-holding-laptop_23-2150709818.jpg?t=st=1721376112~exp=1721379712~hmac=f4d3cdc164fb3e6c2adf9868b254e8c5e8cd5254f6481a1da44162e30ac52b9a&w=740"
+<div height="700"></div>
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-photo/view-3d-man-holding-laptop_23-2150709818.jpg?t=st=1721376112~exp=1721379712~hmac=f4d3cdc164fb3e6c2adf9868b254e8c5e8cd5254f6481a1da44162e30ac52b9a&w=740"/>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naoldaba&label=Profile%20views&color=0e75b6&style=flat" alt="naoldaba" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naoldaba" alt="naoldaba" /></a> </p>
 
 - 🔭 I’m currently working on [ArtistryNexus](https://github.com/Naoldaba/ArtistryNexus)
 
