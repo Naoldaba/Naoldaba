@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-photo/view-3d-man-holding-laptop_23-2150709818.jpg?t=st=1721376112~exp=1721379712~hmac=f4d3cdc164fb3e6c2adf9868b254e8c5e8cd5254f6481a1da44162e30ac52b9a&w=740"/>
 
 
-- 🔭 I’m currently working on [ArtistryNexus](https://github.com/Naoldaba/ArtistryNexus)
-
 - 🌱 I’m currently learning **Blockchain, AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://naoldaba.github.io/Portfolio/](https://naoldaba.github.io/Portfolio/)
