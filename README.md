@@ -5,12 +5,10 @@
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-photo/view-3d-man-holding-laptop_23-2150709818.jpg?t=st=1721376112~exp=1721379712~hmac=f4d3cdc164fb3e6c2adf9868b254e8c5e8cd5254f6481a1da44162e30ac52b9a&w=740"/>
 
 
-- Ask me about **Backend Development and AL/ML**
+- 👨‍💻 **Backend Development, Machine Learning and Generative AI(LLMs,
+RAG, Agentic AI)**
   
-- You can reach me at **naoldaba8@gmail.com**
-  
-- Currently learning **Blockchain, Web3.0**
-
+- 📧 **naoldaba8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
